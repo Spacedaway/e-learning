@@ -179,8 +179,7 @@ a {
 @media (min-width: 768px) {
 	.container {
 		width: 689px;
-		padding-left: 0px;
-		padding-right: 0px;
+		padding-inline: 0px;
 	}
 }
 @media (min-width: 992px) {
