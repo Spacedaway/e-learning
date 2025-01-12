@@ -172,8 +172,7 @@ a {
 }
 @media (min-width: 576px) {
 	.container {
-		padding-left: 32px;
-		padding-right: 32px;
+		padding-inline: 2rem;
 	}
 }
 @media (min-width: 768px) {
