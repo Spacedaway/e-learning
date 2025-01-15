@@ -99,7 +99,7 @@ a {
 /* Buttons */
 .btn {
 	width: 8.75rem;
-	height: 48px;
+	height: 3rem;
 	font-size: 1rem;
 	font-weight: 700;
 	color: var(--colors-white);
