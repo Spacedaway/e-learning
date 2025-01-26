@@ -125,7 +125,7 @@ a {
 	background-image: var(--colors-g-hover), var(--colors-g-magenta-blue);
 }
 .btn-mag-orange {
-	width: 167px;
+	width: 10.5rem;
 	height: 56px;
 	background-image: var(--colors-g-magenta-orange);
 	border-radius: 31.5px;
