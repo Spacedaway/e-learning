@@ -128,7 +128,7 @@ a {
 	width: 10.5rem;
 	height: 3.5rem;
 	background-image: var(--colors-g-magenta-orange);
-	border-radius: 31.5px;
+	border-radius: 2rem;
 	-webkit-border-radius: 31.5px;
 	-moz-border-radius: 31.5px;
 	-ms-border-radius: 31.5px;
