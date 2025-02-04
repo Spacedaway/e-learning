@@ -68,7 +68,7 @@ p {
 	line-height: 1.625;
 	color: var(--colors-silver);
 }
-@media (min-width: 992px) {
+@media (min-width: 62em) {
 	h1 {
 		font-size: 3.5rem;
 	}
