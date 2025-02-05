@@ -130,7 +130,7 @@ a {
 	background-image: var(--colors-g-magenta-orange);
 	border-radius: 2rem;
 	-webkit-border-radius: 2rem;
-	-moz-border-radius: 31.5px;
+	-moz-border-radius: 2rem;
 	-ms-border-radius: 31.5px;
 	-o-border-radius: 31.5px;
 }
