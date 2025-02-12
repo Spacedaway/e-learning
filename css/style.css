@@ -4,7 +4,7 @@
 /* Variables */
 :root {
 	/* Colors */
-	--colors-dark-blue-gray: #666ca3;
+	--colors-dark-blue-gray: hsl(234, 25%, 52%);
 	--colors-yankees-blue: #13183f;
 	--colors-silver: #83869a;
 	--colors-pink: #f74780;
